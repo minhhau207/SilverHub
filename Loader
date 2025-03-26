@@ -1,3 +1,5 @@
 if ScriptMode == "BLR" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/minhhau207/SilverHub/refs/heads/main/BLRStyleChanger"))()
+else
+print("pls enter scriptmode")
 end
